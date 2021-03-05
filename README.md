@@ -2,11 +2,15 @@
 
 This project demonstrates how to use anti-captcha.com API to solve captchas
 
+## Sign Up for a free trial and get the api key
+
+(http://anti-captcha.com/)
+
 ## Install
 
 ```bash
 npm i
-echo "export ANTI_CAPTCHA_API_KEY='your-api-key'" >> ~/.bash_profile  # set env variable or in ~/.bash_profile
+echo "export ANTI_CAPTCHA_API_KEY='your-api-key'" >> ~/.bash_profile  # set env variable globally
 source ~/.bash_profile
 ```
 

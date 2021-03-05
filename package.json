@@ -7,5 +7,16 @@
     "test": "mocha --timeout 15000"
   },
   "author": "Josep Alsina",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/josep11/captcha-solver-demo.git"
+  },
+  "dependencies": {
+    "@antiadmin/anticaptchaofficial": "^1.0.14"
+  },
+  "devDependencies": {
+    "eslint": "^7.20.0",
+    "mocha": "^8.3.0"
+  }
 }
