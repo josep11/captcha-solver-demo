@@ -1,0 +1,11 @@
+{
+  "name": "captcha-solver-demo",
+  "version": "1.0.0",
+  "description": "This project demonstrates how to use anti-captcha.com API to solve captchas",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 15000"
+  },
+  "author": "Josep Alsina",
+  "license": "ISC"
+}
