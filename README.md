@@ -13,5 +13,10 @@ source ~/.bash_profile
 ## Test
 
 ```bash
+npm test
+```
+Or, in case you don't want to set a global environment variable:
+
+```bash
 ANTI_CAPTCHA_API_KEY='your-api-key' npm test
 ```
